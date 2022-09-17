@@ -59,5 +59,5 @@ $
 ```
 
 ## Authors :black_nib:
-* **Daniel Shibabaw** <[ShagizMan](https://github.com/ShagizMan)>
-* **Mercy Mukiri** <[MercyMukiri](https://github.com/MercyMukiri)>
+* **Daniel Njeru**
+**Dennis Omandi**
